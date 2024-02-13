@@ -1,6 +1,4 @@
+bolognese
+cheese 
 spaghetti
-tomatoes
-cheese
 meat
-garlic
-pepper
