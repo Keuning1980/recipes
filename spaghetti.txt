@@ -2,3 +2,4 @@ spaghetti
 tomatoes
 cheese
 meat
+garlic
