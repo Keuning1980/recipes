@@ -1,2 +1,4 @@
-spaghetti\
+spaghetti
 tomatoes
+cheese
+meat
