@@ -1,4 +1,4 @@
-bolognese
+normal
 cheese 
 spaghetti
 meat
